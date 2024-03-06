@@ -1,0 +1,3 @@
+# ComputationalGeom
+Code for the functions from the computational geometry book.
+Computational Geometry, Algorithms and Applications, Berg ....
